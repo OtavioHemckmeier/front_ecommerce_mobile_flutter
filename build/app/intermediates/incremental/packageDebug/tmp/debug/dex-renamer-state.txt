@@ -1,0 +1,4 @@
+#Sat Jul 17 13:52:44 BRT 2021
+base.0=/home/otavio/Área de Trabalho/shop/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
